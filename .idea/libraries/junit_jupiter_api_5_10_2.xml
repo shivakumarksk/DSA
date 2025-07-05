@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="junit-jupiter-api-5.10.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/junit-jupiter-api-5.10.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/mockito-core-5.11.0.jar!/" />
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src" />
+    </SOURCES>
+  </library>
+</component>
